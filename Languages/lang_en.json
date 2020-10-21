@@ -18,7 +18,12 @@
         "title": "Universe Selection",
         "single": "Singleplayer",
         "multi": "Multiplayer",
-        "off": "Offline"
+        "off": "Offline",
+        "playOff": "Play Offline",
+        "return": "Return"
+    },
+    "credits": {
+
     },
     "ingame": {
 
