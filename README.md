@@ -14,6 +14,7 @@ Languages that do not have a link do not have a file yet. Feel free to create on
 [French / Français](./Languages/lang_fr.json)<br>
 [Turkish / Türkçe](./Languages/lang_tr.json) - WIP<br>
 Russian / Pусский<br>
+[Vietnamese / Tiếng Việt](./Languages/lang_vi.json)<br>
 [German / Deutsche](./Languages/lang_de.json)<br>
 [Chinese / 中文](./Languages/lang_zh.json)<br>
 Portugese / Português<br>
