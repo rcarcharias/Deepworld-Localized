@@ -10,9 +10,9 @@ Rather than manually looking for them, each language below that has a JSON file 
 Languages that do not have a link do not have a file yet. Feel free to create one if you're contributing.
 
 [English](./Languages/lang_en.json) - Default / Complete (All languages should be based off of this file)<br>
-[Spanish / Español](./Languages/lang_es.json) - WIP<br>
+[Spanish / Español](./Languages/lang_es.json)<br>
 [French / Français](./Languages/lang_fr.json)<br>
-[Turkish / Türkçe](./Languages/lang_tr.json) - WIP<br>
+[Turkish / Türkçe](./Languages/lang_tr.json)<br>
 [Russian / Pусский](./Languages/lang_ru.json)<br>
 [Vietnamese / Tiếng Việt](./Languages/lang_vi.json)<br>
 [German / Deutsche](./Languages/lang_de.json)<br>
