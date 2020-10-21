@@ -7,20 +7,20 @@
     "mainMenu": {
         "title": "Deepworld Remastered",
         "log": "Changelog",
-        "play": "Play",
-        "exit": "Exit",
-        "credits": "Credits",
+        "play": "Spielen",
+        "exit": "Verlassen",
+        "credits": "Mitwirkende",
         "__Comment__": "THE BELOW ARE NOT REQUIRED TO BE TRANSLATED, Only translate them if you know you can write them perfectly.",
         "legalText": "Deepworld assets are Copyright 2014 Bytebin LLC. Bytebin is not affiliated with and does not endorse, sponsor, or specifically approve this application",
         "legalSecond":  "Deepworld Remastered logic and assets are owned and created by Taylor Schneider / Mister SirCode. Do not distribute under a different name or owner, LEGAL ACTION WILL BE APPREHENDED"
     },
     "worldSelect": {
-        "title": "Universe Selection",
+        "title": "Universum wählen",
         "single": "Singleplayer",
         "multi": "Multiplayer",
         "off": "Offline",
-        "playOff": "Play Offline",
-        "return": "Return"
+        "playOff": "Offline spielen",
+        "return": "Zurück"
     },
     "credits": {
 
@@ -32,36 +32,36 @@
 
     },
     "itemProperties": {
-        "placeable": "Placeable",
-        "explosion-proof": "Explosion-proof",
-        "unobtainable": "Unobtainable"
+        "placeable": "Platzierbar",
+        "explosion-proof": "Explosionssicher",
+        "unobtainable": "Unerhältlich"
     },
     "items": {
-        "air": "Air",
-        "shillings": "Shillings",
-        "earth": "Earth",
-        "compost": "Compost",
-        "sandstone": "Sandstone",
-        "limestone": "Limestone",
+        "air": "Luft",
+        "shillings": "Shillinge",
+        "earth": "Erde",
+        "compost": "Kompost",
+        "sandstone": "Sandstein",
+        "limestone": "Kalkstein",
         "sand": "Sand",
-        "wood-rubble": "Wood Rubble",
-        "stone-rubble": "Stone Rubble",
-        "flax": "Flax",
-        "resin": "Resin",
-        "clay": "Clay",
-        "salt": "Salt",
-        "fire-salt": "Fire Salt",
-        "iron-ore": "Iron Ore",
-        "copper-ore": "Copper Ore",
-        "zinc-ore": "Zinc Ore",
-        "lead-ore": "Lead Ore",
-        "quartz-ore": "Quartz Ore",
-        "sulfur-ore": "Sulfur Ore",
-        "marble-ore": "Marble Ore",
-        "bloodstone-ore": "Bloodstone Ore",
-        "beryllium-ore": "Beryllium Ore",
-        "diamond-ore": "Diamond Ore",
-        "blue-crystal": "Small Blue Crystal",
-        "medium-blue-crystal": "Medium Blue Crystal"
+        "wood-rubble": "Holzschutt",
+        "stone-rubble": "Bruchstein",
+        "flax": "Flachs",
+        "resin": "Harz",
+        "clay": "Lehm",
+        "salt": "Salz",
+        "fire-salt": "Feuersalz",
+        "iron-ore": "Eisenerz",
+        "copper-ore": "Kupfererz",
+        "zinc-ore": "Zinkerz",
+        "lead-ore": "Bleierz",
+        "quartz-ore": "Quartzerz",
+        "sulfur-ore": "Schwefelerz",
+        "marble-ore": "Marmorerz",
+        "bloodstone-ore": "Blutsteinerz",
+        "beryllium-ore": "Berylliumerz",
+        "diamond-ore": "Diamanterz",
+        "blue-crystal": "Kleiner blauer Kristall",
+        "medium-blue-crystal": "Mittelgroßer blauer Kristall"
     }
 }
