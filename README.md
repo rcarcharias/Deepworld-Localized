@@ -12,7 +12,7 @@ Languages that do not have a link do not have a file yet. Feel free to create on
 [English](./Languages/lang_en.json) - Default / Complete (All languages should be based off of this file)<br>
 [Spanish / Español](./Languages/lang_es.json) - WIP<br>
 [French / Français](./Languages/lang_fr.json)<br>
-[Turkish / Türk](./Languages/lang_tr.json) - WIP<br>
+[Turkish / Türkçe](./Languages/lang_tr.json) - WIP<br>
 Russian / Pусский<br>
 [German / Deutsche](./Languages/lang_de.json)<br>
 [Chinese / 中文](./Languages/lang_zh.json)<br>
