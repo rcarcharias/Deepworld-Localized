@@ -7,12 +7,14 @@ We are using the **ISO 639-1 Language Code** Specifications.<br>Find specific la
 
 Rather than manually looking for them, each language below that has a JSON file is also a clickable direct link to the specific file.
 
+Languages that do not have a link do not have a file yet. Feel free to create one if you're contributing.
+
 [English](./Languages/lang_en.json) - Default / Complete (All languages should be based off of this file)<br>
 [Spanish / Español](./Languages/lang_es.json) - WIP<br>
 [French / Français](./Languages/lang_fr.json)<br>
 [Turkish / Türk](./Languages/lang_tr.json) - WIP<br>
-Russian<br>
+Russian / Pусский<br>
 [German / Deutsche](./Languages/lang_de.json)<br>
 [Chinese / 中文](./Languages/lang_zh.json)<br>
-Portugese<br>
-Japanese<br>
+Portugese / Português<br>
+Japanese / 日本語<br>
