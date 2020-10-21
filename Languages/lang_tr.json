@@ -4,9 +4,6 @@
         "nameInLang": "türkçe",
         "isoCode": "tr"
     },
-    "items": {
-
-    },
     "mainMenu": {
 
     },
@@ -17,6 +14,9 @@
 
     },
     "store": {
+
+    },
+    "items": {
 
     }
 }

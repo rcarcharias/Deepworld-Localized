@@ -4,9 +4,6 @@
         "nameInLang": "español",
         "isoCode": "es"
     },
-    "items": {
-
-    },
     "mainMenu": {
 
     },
@@ -17,6 +14,9 @@
 
     },
     "store": {
+
+    },
+    "items": {
 
     }
 }

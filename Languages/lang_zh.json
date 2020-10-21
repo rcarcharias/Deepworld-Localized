@@ -4,9 +4,6 @@
         "nameInLang": "中文",
         "isoCode": "zh"
     },
-    "items": {
-
-    },
     "mainMenu": {
 
     },
@@ -17,6 +14,9 @@
 
     },
     "store": {
+
+    },
+    "items": {
 
     }
 }
