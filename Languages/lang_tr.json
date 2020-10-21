@@ -5,10 +5,22 @@
         "isoCode": "tr"
     },
     "mainMenu": {
-
+        "title": "Deepworld Remastered",
+        "log": "Değişim Kaydı",
+        "play": "Oyna",
+        "exit": "Çıkış",
+        "credits": "Emeği Geçenler",
+        "__Comment__": "THE BELOW ARE NOT REQUIRED TO BE TRANSLATED, Only translate them if you know you can write them perfectly.",
+        "legalText": "Deepworld varlıklarının Telif Hakkı 2014 Bytebin LLC'ye aittir. Bytebin bu uygulamaya bağlı değildir ve desteklemiyor, sponsor değildir veya özellikle bu uygulamayı onaylamamıştır",
+        "legalSecond":  "Deepworld Remastered mantığı ve varlıkları Taylor Schneider / Mister SirCode tarafından yaratılmış ve sahiplenmiştir. Başka bir isim veya sahip adı altında paylaşmayınız. HUKUKİ İŞLEM UYGULANACAKTIR"
     },
     "worldSelect": {
-
+        "title": "Evren Seçimi",
+        "single": "Tek Oyunculu",
+        "multi": "Çok Oyunculu",
+        "off": "Çevrimdışı",
+        "playOff": "Çevrimdışı Oyna",
+        "return": "Geri"
     },
     "credits": {
 
@@ -20,6 +32,32 @@
 
     },
     "items": {
-
+        "air": "Hava",
+        "shillings": "Şilinler",
+        "earth": "Toprak",
+        "compost": "Organik gübre",
+        "sandstone": "Kumtaşı",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": ""
     }
 }
+
