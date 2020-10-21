@@ -7,20 +7,20 @@
     "mainMenu": {
         "title": "Deepworld Remastered",
         "log": "Changelog",
-        "play": "Play",
-        "exit": "Exit",
+        "play": "Spelen",
+        "exit": "Sluiten",
         "credits": "Credits",
         "__Comment__": "THE BELOW ARE NOT REQUIRED TO BE TRANSLATED, Only translate them if you know you can write them perfectly.",
         "legalText": "Deepworld assets are Copyright 2014 Bytebin LLC. Bytebin is not affiliated with and does not endorse, sponsor, or specifically approve this application",
         "legalSecond":  "Deepworld Remastered logic and assets are owned and created by Taylor Schneider / Mister SirCode. Do not distribute under a different name or owner, LEGAL ACTION WILL BE APPREHENDED"
     },
     "worldSelect": {
-        "title": "Universe Selection",
-        "single": "Singleplayer",
-        "multi": "Multiplayer",
+        "title": "Universum Selectie",
+        "single": "Alleen Spelen",
+        "multi": "Samen Spelen",
         "off": "Offline",
-        "playOff": "Play Offline",
-        "return": "Return"
+        "playOff": "Offline Spelen",
+        "return": "Terug"
     },
     "credits": {
 
@@ -32,36 +32,36 @@
 
     },
     "itemProperties": {
-        "placeable": "Placeable",
-        "explosion-proof": "Explosion-proof",
-        "unobtainable": "Unobtainable"
+        "placeable": "Plaatsbaar",
+        "explosion-proof": "Explosie-bestand",
+        "unobtainable": "Onverkrijgbaar"
     },
     "items": {
-        "air": "Air",
+        "air": "Lucht",
         "shillings": "Shillings",
-        "earth": "Earth",
+        "earth": "Aarde",
         "compost": "Compost",
-        "sandstone": "Sandstone",
-        "limestone": "Limestone",
-        "sand": "Sand",
-        "wood-rubble": "Wood Rubble",
-        "stone-rubble": "Stone Rubble",
-        "flax": "Flax",
-        "resin": "Resin",
-        "clay": "Clay",
-        "salt": "Salt",
-        "fire-salt": "Fire Salt",
-        "iron-ore": "Iron Ore",
-        "copper-ore": "Copper Ore",
-        "zinc-ore": "Zinc Ore",
-        "lead-ore": "Lead Ore",
-        "quartz-ore": "Quartz Ore",
-        "sulfur-ore": "Sulfur Ore",
-        "marble-ore": "Marble Ore",
-        "bloodstone-ore": "Bloodstone Ore",
-        "beryllium-ore": "Beryllium Ore",
-        "diamond-ore": "Diamond Ore",
-        "blue-crystal": "Small Blue Crystal",
-        "medium-blue-crystal": "Medium Blue Crystal"
+        "sandstone": "Zandsteen",
+        "limestone": "Kalksteen",
+        "sand": "Zand",
+        "wood-rubble": "Houtspuin",
+        "stone-rubble": "Steenspuin",
+        "flax": "Vlas",
+        "resin": "Hars",
+        "clay": "Klei",
+        "salt": "Zout",
+        "fire-salt": "Vuurzout",
+        "iron-ore": "Ijzererts",
+        "copper-ore": "Kopererts",
+        "zinc-ore": "Zinkerts",
+        "lead-ore": "Looderts",
+        "quartz-ore": "Kwartserts",
+        "sulfur-ore": "Zwavelerts",
+        "marble-ore": "Marmererts",
+        "bloodstone-ore": "Bloedsteenerts",
+        "beryllium-ore": "Berylliumerts",
+        "diamond-ore": "Diamanterts",
+        "blue-crystal": "Kleine Blauwe Crystal",
+        "medium-blue-crystal": "Middelgrote Blauwe Crystal"
     }
 }
